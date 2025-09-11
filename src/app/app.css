@@ -1,0 +1,9 @@
+.main{
+  border-radius: 5%;
+  margin: 100px;
+  background-color: aqua;
+}
+
+.about{
+  white-space: pre-line;
+}
